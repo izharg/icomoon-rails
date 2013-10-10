@@ -5,10 +5,9 @@ YOU SHOULD ONLY USE ACTUALLY NEEDED ICON FONTS.
 1. git clone git@github.com:Nurego/icomoon-rails.git
 2. Go to [IcoMoon App](http://icomoon.io/app/)
 3. Load our current fonts:  
-    There is 'load session' button on the right-bottom of the page.  
+    Click on the red button "Import icons"
     Choose icomoon.dev.svg file (icomoon-rails/vendor/assets/fonts/icomoon-free/icomoon.dev.svg)
 4. Select the fonts you needed, and click 'Font->' button.  
-   You can add your own svg icons by clicking on the red button "Import icons" 
 5. Click 'Download' to download your font pack as zip file
 6. Update icomoon-free source files:  
      cd icomoon-rails  
